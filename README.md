@@ -13,7 +13,10 @@ To Run the Code:-
 
 Start by moving to the directory where server.py and client.py files are present and run
 
-``` python server.py ``` <br>
+``` 
+python server.py 
+
+``` 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  <br>
 ``` python3 server.py ```
 
