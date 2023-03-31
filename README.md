@@ -16,7 +16,7 @@ Start by moving to the directory where server.py and client.py files are present
 ``` 
 python server.py 
 ``` 
-## or
+or
 ``` 
 python3 server.py 
 ```
@@ -26,7 +26,7 @@ After running the server.py file, run the client.py file
 ``` 
 python client.py 
 ``` 
- ## or
+or
 ``` 
 python3 client.py 
 ```
