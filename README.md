@@ -15,14 +15,18 @@ Start by moving to the directory where server.py and client.py files are present
 
 ``` 
 python server.py 
+``` 
 
 ``` 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or  <br>
-``` python3 server.py ```
+python3 server.py 
+```
 
 After running the server.py file, run the client.py file 
 
-``` python client.py ``` <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          or                  <br>
-``` python3 client.py ```
+``` 
+python client.py 
+``` 
+``` 
+python3 client.py 
+```
 
